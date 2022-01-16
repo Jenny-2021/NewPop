@@ -1,0 +1,29 @@
+
+[
+  {
+    "title":"Solo Leveling - Livro 1",
+    "image":"../src/assets/obras/soloLeveling1.jpg",
+    "price": "De: R$ 64,90 Por R$ 56,00"
+  },
+  {
+    "title":"1 Litro de Lagrimas: Diarío da Aya",
+    "image":"../src/assets/obras/1LitroDeLagrimas.jpg",
+    "price": "Esse produto encontra-se indisponível no momento."
+  },
+  {
+    "title":"Me Apaixonei pela Vilã - Livro 1",
+    "image":"../src/assets/obras/meapaixoneiPelaVila.jpg",
+    "price": "De: R$ 39,90 Por R$ 29,90 "
+  },
+  {
+    "title":"Re:Zero – Começando uma Vida em Outro Mundo Livro 01",
+    "image":"../src/assets/obras/reZero1.png",
+    "price": "Por: R$ 26,90 "
+  },
+  {
+    "title":"Given - Mangá Volume 01",
+    "image":"../src/assets/obras/given.jpg",
+    "price": "De: R$ 29,90 Por R$ 26,90"
+  }
+
+]
