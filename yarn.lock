@@ -1085,6 +1085,16 @@
   dependencies:
     "@types/hammerjs" "^2.0.36"
 
+"@expo-google-fonts/dongle@^0.2.2":
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/@expo-google-fonts/dongle/-/dongle-0.2.2.tgz#5166bbc06429e206cbf71d4a4c58e72c09dc68e7"
+  integrity sha512-h15L9JtoaWlenNz/0BkOwc8Arz86jJfPU1GmTpCJupBwD5etWtgb0Rn1VGzGuUsTJ+jE3B8ZFWFyR6ZVSIdKdA==
+
+"@expo-google-fonts/quando@^0.2.2":
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/@expo-google-fonts/quando/-/quando-0.2.2.tgz#ee00879cebd9e54150cd3d84f4e8549ec4df6f96"
+  integrity sha512-fvc2zCr1ztfXCA8vzLZzvk4BxERgS/0sQD8BdzHEsbVKLTxmtyTnSpKGicd12+PEBZVwTFByLxEWhS0xZPZC2Q==
+
 "@expo/config-plugins@4.0.15", "@expo/config-plugins@^4.0.2":
   version "4.0.15"
   resolved "https://registry.npmjs.org/@expo/config-plugins/-/config-plugins-4.0.15.tgz"
@@ -3263,10 +3273,10 @@ expo-application@~4.0.1:
   resolved "https://registry.npmjs.org/expo-application/-/expo-application-4.0.1.tgz"
   integrity sha512-yZM/SrpWdi84m5+5F3VDfhrMZOz/uKwXcgBhOP1wzfXt0otGSRW1V5tM+a0sgaKZsDRCGojTU7Jm73BVwwVrwg==
 
-expo-asset@~8.1.7:
-  version "8.1.7"
-  resolved "https://registry.npmjs.org/expo-asset/-/expo-asset-8.1.7.tgz"
-  integrity sha512-g0+a+Uc+GfOI7VtZ6d0WB78qq6Lu3vKqHN3TBfcsndcx893CSmo6ZVLcrlL9evdZwlbSO+9zLrLdzEw38a/gMA==
+expo-asset@^8.4.6, expo-asset@~8.4.5:
+  version "8.4.6"
+  resolved "https://registry.npmjs.org/expo-asset/-/expo-asset-8.4.6.tgz"
+  integrity sha512-Kpzcmmf1lceHnZkAdJOvq7l7SU/hCL59vAj2xUZS66U6lFkUf7LNEA/NzILA56loCd4cka5ShYlWs+BMchyFDQ==
   dependencies:
     blueimp-md5 "^2.10.0"
     invariant "^2.2.4"
@@ -3274,10 +3284,10 @@ expo-asset@~8.1.7:
     path-browserify "^1.0.0"
     url-parse "^1.4.4"
 
-expo-asset@~8.4.4, expo-asset@~8.4.5:
-  version "8.4.5"
-  resolved "https://registry.npmjs.org/expo-asset/-/expo-asset-8.4.5.tgz"
-  integrity sha512-4E+VzFdgSjeCC+x80VuL+moY04U19SRV6vrL8DekQSyPbwkNR1QdvSx/7O7XTOspB9duwebQ1ue7JHFWOwyaMQ==
+expo-asset@~8.1.7:
+  version "8.1.7"
+  resolved "https://registry.npmjs.org/expo-asset/-/expo-asset-8.1.7.tgz"
+  integrity sha512-g0+a+Uc+GfOI7VtZ6d0WB78qq6Lu3vKqHN3TBfcsndcx893CSmo6ZVLcrlL9evdZwlbSO+9zLrLdzEw38a/gMA==
   dependencies:
     blueimp-md5 "^2.10.0"
     invariant "^2.2.4"

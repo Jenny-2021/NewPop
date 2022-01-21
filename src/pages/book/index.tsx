@@ -1,6 +1,6 @@
 import { useNavigation } from "@react-navigation/native";
 import React from "react";
-import { View, Button, FlatList, Text } from "react-native";
+import { View, FlatList,TouchableOpacity, Text } from "react-native";
 
 import styles from "./styles";
 
@@ -18,12 +18,10 @@ export function Book(): any {
   return (
     <View style={styles.container}>
 
-      <Button
-        onPress={() => handlePageHome()}
-        title="Learn More"
-        color="#841584"
-        accessibilityLabel="Learn more about this purple button"
-      />
+      <TouchableOpacity style={styles.button} 
+        onPress={() => handlePageHome()}>
+        <Text>Voltar</Text>       
+      </TouchableOpacity> 
       <FlatList
         data={Books}
         keyExtractor={(item) => item.title}

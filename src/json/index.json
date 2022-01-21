@@ -1,27 +1,46 @@
 [
   {
     "title": "Solo Leveling - Livro 1",
-    "image": "https://img.icons8.com/color/480/000000/sarada-uchiha.png",
+    "image": "https://cdn.awsli.com.br/800x800/54/54752/produto/55693303/7aaeeafc7e.jpg",
     "price": "De: R$ 64,90 Por R$ 56,00"
+    
   },
   {
     "title": "1 Litro de Lagrimas: Diarío da Aya",
-    "image": "https://img.icons8.com/color/480/000000/sarada-uchiha.png",
+    "image": "https://www.newpop.com.br/wp-content/uploads/2020/03/NewPOP_1LitroBook.jpg",
     "price": "Esse produto encontra-se indisponível no momento."
+    
   },
   {
     "title": "Me Apaixonei pela Vilã - Livro 1",
-    "image": "https://img.icons8.com/color/480/000000/sarada-uchiha.png",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/91tiEmyY85L.jpg",
     "price": "De: R$ 39,90 Por R$ 29,90 "
+    
   },
   {
     "title": "Re:Zero – Começando uma Vida em Outro Mundo Livro 01",
-    "image": "https://img.icons8.com/color/480/000000/sarada-uchiha.png",
+    "image": "https://cdn.awsli.com.br/1000x1000/54/54752/produto/20468365/c3bba83698.jpg",
     "price": "Por: R$ 26,90 "
+    
   },
   {
-    "title": "Given - Mangá Volume 01",
-    "image": "https://img.icons8.com/color/480/000000/sarada-uchiha.png",
-    "price": "De: R$ 29,90 Por R$ 26,90"
+    "title": "A Voz do Silêncio (Edição Definitiva) - Mangá Volume 1",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81-OOVzlD+L.jpg",
+    "price": "Esse produto encontra-se indisponível no momento."
+  },
+  {
+    "title": "Uma Vida Imortal (To Your Eternity) - Mangá Volume 01",
+    "image": "https://cdn.awsli.com.br/1000x1000/54/54752/produto/118290774/6d8ce47cf8.jpg",
+    "price": "De: R$ 26,90 Por R$ R$ 24,90"
+  },
+  {
+    "title": "Made in Abyss - Mangá Volume 01",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/514yChPyVuL._SX352_BO1,204,203,200_.jpg",
+    "price": "De: R$ 21,90 Por R$ 21,00"
+  },
+  {
+    "title": "Citrus - Mangá Volume 01",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71rISIiKFEL.jpg",
+    "price": "Esse produto encontra-se indisponível no momento."
   }
 ]

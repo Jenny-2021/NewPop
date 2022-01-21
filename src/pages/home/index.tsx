@@ -1,9 +1,9 @@
 import React from "react";
 import { useNavigation } from '@react-navigation/native';
-import { View, Text, Button } from "react-native";
+import { View, Text, Image } from "react-native";
 
 import styles from "./styles";
-
+import { TouchableOpacity } from "react-native-gesture-handler";
 export function Home() {
   const navigation =  useNavigation<any>();
   
@@ -13,13 +13,35 @@ export function Home() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Tab One</Text>
-      <Button
-        onPress={() => handlePageBook()}
-        title="Learn More"
-        color="#841584"
-        accessibilityLabel="Learn more about this purple button"
+      <View style={styles.areaBox}>
+      <Image
+        style={styles.logo}
+        source={require('../../assets/home/logo.jpg')}
       />
+      <Text style={styles.title}>
+      Bem Vindo(a)!
+      </Text>
+      <Text style={styles.text}>
+      
+        Olá,Eu sou a Pop-chan,
+        sou a mascote da editora
+        Newpop,hoje venho mostrar
+        os destaques da nossa editora.
+      
+      </Text>
+      <Text style={styles.guideText}>
+        Clique no botão abaixo para saber mais!
+      </Text>
+      <Image
+        style={styles.popChan}
+        source={require('../../assets/home/pop-Chan.jpg')}
+      />
+      <TouchableOpacity style={styles.button} 
+        onPress={() => handlePageBook()}>
+        <Text>Saiba Mais!</Text>       
+      </TouchableOpacity> 
+      <View style={styles.separator}/>
+      </View>
     </View>
   );
 
